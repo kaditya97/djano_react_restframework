@@ -35,7 +35,7 @@ class Login extends Component {
         <div className="row text-center">
           <div className="card">
             <div className="card-header">
-              <h5 className="card-title">Login for SDSS</h5>
+              <h5 className="card-title">Login for SAWP</h5>
             </div>
             <div className="card-body">
               <form onSubmit={this.onSubmit}>
